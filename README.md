@@ -33,3 +33,25 @@ The AI-Driven Feedback Summarization and Automated Reporting System is an intell
 7. The administrator reviews the report on the dashboard.
 
 ## Project Structure
+
+AI-Performance-Dashboard/
+├── public/
+├── src/
+│ ├── assets/
+│ ├── App.jsx
+│ ├── App.css
+│ ├── index.css
+│ └── main.jsx
+├── package.json
+├── vite.config.js
+├── README.md
+└── .gitignore
+
+
+## Installation
+
+```bash
+git clone <repository-url>
+cd AI-Performance-Dashboard
+npm install
+npm run dev
